@@ -8,4 +8,4 @@
 📡 **Projects** : Remote control bots, AI assistants  
 🔐 **Mission** : Minimalisme, efficacité, résultats.
 
-__No frills. Just code.__
+***No frills. Just code.***
