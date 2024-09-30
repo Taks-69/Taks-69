@@ -1,11 +1,11 @@
-## hey.
+## Hey.
 
 **> "Survival is just the beginning." – Takeshi Kovacs**
 
-👾 Tak's, codeur par nécessité, créateur par conviction.
+👾 Tak's, coder by necessity, creator by conviction.
 
 🛠️ **Skills** : Python, Automation, System Control  
-📡 **Projects** : Remote control bots, AI assistants  
-🔐 **Mission** : Minimalisme, efficacité, résultats.
+📡 **Projects** : Remote control, AI assistants, Cybersecurity Tools
+🔐 **Mission** : Minimalism, efficiency, results.
 
 ***No frills. Just code.***
