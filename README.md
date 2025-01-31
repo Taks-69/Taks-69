@@ -12,8 +12,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=gears&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/System%20Control-0D1117style=for-the-badge&logo=gears&logoColor=00FF00">
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117style=for-the-badge&logo=gears&logoColor=00FF00">
+  <img src="https://img.shields.io/badge/System%20Control-0D1117?style=for-the-badge&logo=gears&logoColor=00FF00">
+  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=gears&logoColor=00FF00">
 </p>
 
 ## 📡 Projects
