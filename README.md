@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"There are arenas so corrupted that the only clean acts possible are nihilistic.” - Quellcrist Falconer**
+> **"The past is only relevant as data.” - Takeshi Kovacs**
 
 > **Development of a discord server for the community and private repository, join me**
 
