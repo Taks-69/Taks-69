@@ -1,4 +1,5 @@
 # Hey, It's Me.
+> **Development of a discord server for the community and private repository, join me**
 
 > **"Survival is just the beginning." – Takeshi Kovacs**
 
