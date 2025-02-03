@@ -6,10 +6,13 @@
 **🖤 Tak's** - coder by necessity, creator by conviction.
 
 
-## 🛠️ Skills & 📊 GitHub Stats
+##  📊 GitHub Stats & 🛠️ Skills
 
 <table>
   <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Taks-69&show_icons=true&theme=chartreuse-dark">
+    </td>
     <td>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00FF00">
@@ -19,9 +22,6 @@
         <img src="https://img.shields.io/badge/System%20Control-0D1117?style=for-the-badge&logo=gears&logoColor=00FF00">
         <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=gears&logoColor=00FF00">
       </p>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Taks-69&show_icons=true&theme=chartreuse-dark">
     </td>
   </tr>
 </table>
