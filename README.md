@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"The personal is political.” - Quellcrist Falconer**
+> **"Technology advances, but humans don't.” - Takeshi Kovacs**
 
 > **Development of a discord server for the community and private repository, join me**
 
