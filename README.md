@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"Survival is just the beginning." – Takeshi Kovacs**
+> **"Human life has no intrinsic value.” - Reileen Kawahara**
 
 > **Development of a discord server for the community and private repository, join me**
 
