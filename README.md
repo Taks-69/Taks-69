@@ -40,4 +40,4 @@
 > ***No frills. Just code.***
 ## 📫 Connect with Me
 - 🌀 **Discord:** [Tak's](https://discord.gg/uy58egm4jd)
-- 🌐 **Guns.lol:** [Takeshi](https://guns.lol/takeshi)
+- 🌐 **Guns.lol:** [Kovacs](https://guns.lol/takeshi)
