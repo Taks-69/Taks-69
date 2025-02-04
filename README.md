@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"The human eye is a wonderful device.” - Quellcrist Falconer**
+> **"There are arenas so corrupted that the only clean acts possible are nihilistic.” - Quellcrist Falconer**
 
 > **Development of a discord server for the community and private repository, join me**
 
