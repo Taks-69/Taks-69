@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"Power is usually buried.” - Reileen Kawahara**
+> **"The personal is political.” - Quellcrist Falconer**
 
 > **Development of a discord server for the community and private repository, join me**
 
