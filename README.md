@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"Culture is like smog.” - Takeshi Kovacs**
+> **"If you want to lose a fight, talk about it first.” - Takeshi Kovacs**
 
 > **Development of a discord server for the community and private repository, join me**
 
