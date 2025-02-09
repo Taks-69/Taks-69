@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"The human eye is a wonderful device.” - Quellcrist Falconer**
+> **"Take what is offered, and sometimes that must be enough.” - Quellcrist Falconer**
 
 > **Development of a discord server for the community and private repository, join me**
 
