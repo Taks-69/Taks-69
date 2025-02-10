@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"Culture is like smog.” - Takeshi Kovacs**
+> **"The human eye is a wonderful device.” - Quellcrist Falconer**
 
 > **Development of a discord server for the community and private repository, join me**
 
