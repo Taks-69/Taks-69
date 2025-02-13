@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"If you want to lose a fight, talk about it first.” - Takeshi Kovacs**
+> **"The past is only relevant as data.” - Takeshi Kovacs**
 
 > **Development of a discord server for the community and private repository, join me**
 
