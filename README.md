@@ -1,7 +1,8 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
 > **"Survival is just the beginning." – Takeshi Kovacs**
 
-> **Development of a discord server for the community and private repository, join me**
+> **Development of a Discord server for the community and a private repository, join me**  
+> **Development of a simple voice AI assistant, like Jarvis, currently available only in French**
 
 **🖤 Tak's** - coder by necessity, creator by conviction.
 
