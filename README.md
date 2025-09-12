@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/takeshi).
-> **"Human life has no intrinsic value.” - Reileen Kawahara**
+> **"There are arenas so corrupted that the only clean acts possible are nihilistic.” - Quellcrist Falconer**
 
 > **Development of a Discord server for the community and a private repository, join me**  
 > **Development of a simple voice AI assistant, like Jarvis, currently available only in French**
