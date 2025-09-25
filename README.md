@@ -1,4 +1,4 @@
-# Hey, It's [Me](https://guns.lol/takeshi).
+# Hey, It's [Me](https://guns.lol/kovacs).
 > **"Power is usually buried.” - Reileen Kawahara**
 
 > **Development of a Discord server for the community and a private repository, join me**  
@@ -40,5 +40,5 @@
 
 > ***No frills. Just code.***
 ## 📫 Connect with Me
-- 🌀 **Discord:** [Tak's](https://discord.gg/uy58egm4jd)
+- 🌀 **Discord:** [Tak's](https://discord.gg/Celestyne)
 - 🌐 **Guns.lol:** [Kovacs](https://guns.lol/takeshi)
