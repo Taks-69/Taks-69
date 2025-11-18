@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/kovacs).
-> **"Survival is just the beginning." – Takeshi Kovacs**
+> **"The personal is political.” - Quellcrist Falconer**
 
 > **Development of a Discord server for the community and a private repository, join me**  
 > **Development of a simple voice AI assistant, like Jarvis, currently available only in French**
