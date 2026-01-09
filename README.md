@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/kovacs).
-> **"Power is usually buried.” - Reileen Kawahara**
+> **"The past is only relevant as data.” - Takeshi Kovacs**
 
 > **Development of a Discord server for the community and a private repository, join me**  
 > **Development of a simple voice AI assistant, like Jarvis, currently available only in French**
