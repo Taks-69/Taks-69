@@ -1,5 +1,5 @@
 # Hey, It's [Me](https://guns.lol/kovacs).
-> **"Take what is offered, and sometimes that must be enough." - Quellcrist Falconer**
+> **"Culture is like smog." - Takeshi Kovacs**
 
 > **Development of a Discord server for the community and a private repository, join me**  
 > **Development of a simple voice AI assistant, like Jarvis, currently available only in French**
